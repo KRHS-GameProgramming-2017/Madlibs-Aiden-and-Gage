@@ -70,6 +70,17 @@ def isSwear(word):
                  "nazi"
                  "dick"
                  "fucked"
+                 "nigga"
+                 "cock"
+                 "vaginernaenae"
+                 "cumdumpster"
+                 "creampie"
+                 "KSI WonderKIKI"
+                 "pee pee"
+                 "MLG"
+                 "1st Gear Gibs"
+                 "vagina"
+                 "Drewish"
                  ]
 	if word.lower() in swearList:
 		return True
