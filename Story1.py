@@ -1,7 +1,5 @@
 from Getter import *
 
-#aiden waz heeer
-
 def story1(debug= False):
 	if debug: print "--In story1 function--"
 	
