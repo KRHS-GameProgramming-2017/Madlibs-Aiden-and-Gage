@@ -1,5 +1,7 @@
 from Getter import *
 
+#gage waz heeere
+
 def story1(debug= False):
 	if debug: print "--In story1 function--"
 	
