@@ -81,7 +81,7 @@ def isSwear(word):
                  "1st Gear Gibs"
                  "vagina"
                  "Drewish"
-                 ]
+                 "Cock"]
 	if word.lower() in swearList:
 		return True
 	else:
