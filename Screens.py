@@ -7,7 +7,7 @@ def splash(debug = False):
 	output += "*           Written by                *\n"
 	output += "*         Aiden Decelle               *\n"
 	output += "*              &                      *\n"
-	output += "*         Gage  Dionne                *\n"
+	output += "*          Gage Dionne                *\n"
 	output += "*                                     *\n"
 	output += "***************************************\n"
 	return output
@@ -18,8 +18,8 @@ def menu(debug = False):
 	output += "***************************************\n"
 	output += "*Main menu                            *\n"
 	output += "*1) A story                           *\n"
-	output += "*2)                                   *\n"
-	output += "*3)                                   *\n"
+	output += "*2) B story                           *\n"
+	output += "*3) C story                           *\n"
 	output += "*Q) Exit                              *\n"
 	output += "***************************************\n"
 	return output
