@@ -19,6 +19,11 @@ def madlibs(debug = False):
 		elif response == "1":
 			print story1()
 			raw_input("Press Enter to Continue")
+            
+            
+        elif response == "2":
+			print story1()
+			raw_input("Press Enter to Continue")
 			
 	
 	
