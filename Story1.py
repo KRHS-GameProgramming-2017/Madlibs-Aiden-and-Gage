@@ -15,3 +15,5 @@ def story1(debug= False):
 	out += " loves " + store1
 	
 	return out
+    
+
