@@ -13,7 +13,7 @@ def story1(debug= False):
 	out += " miles to " + store1
 	out += ". " + friend1
 	out += " loves " + store1
-	
+	out += " Do you love me? " + store1
 	return out
     
 
