@@ -23,6 +23,7 @@ def madlibs(debug = False):
         elif response == "2":
 			print story2()
 			raw_input("Press Enter to Continue")
+            
 			
 	
 	
