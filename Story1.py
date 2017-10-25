@@ -8,7 +8,7 @@ def story1(debug= False):
 	store1 = getWord("A Store: ", debug)
 	
 	out = ""
-	out += "One day me and my friend, " + friend1
+	out += "One day me and my friend, " + friend1 
 	out += ", walked " + distance1
 	out += " miles to " + store1
 	out += ". " + friend1
